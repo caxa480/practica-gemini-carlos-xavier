@@ -125,7 +125,8 @@ Utilizar Gemini para analizar una imagen enviada desde Python y generar una desc
 3. Se solicitó una descripción detallada del contenido, en ese caso una imagen.
 
     - Imagen que se utiliza para pedir la descripción detallada:
-    ![Foto Corgi](foto.jpg)
+
+![Foto Corgi](foto.jpg)
 
 
 ## Resultado
